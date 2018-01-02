@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WinePoints.qml</file>
+        <file>WinePoints_layout.qml</file>
+    </qresource>
+</RCC>
